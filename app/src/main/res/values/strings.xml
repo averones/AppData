@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AppRenda</string>
+    <string name="selected_categ_receb">Selected item:</string>
+    <string name="recebimentos_futuros">Recebimentos futuros</string>
+    <string name="sal_rios_renda">Salários/Renda</string>
+    <string name="outros_recebimentos">Outros recebimentos</string>
+    <string name="saida">Saída</string>
+    <string name="saldo">Saldo:</string>
+    <string name="r">-R$</string>
+    <string name="dd_mm_yyyy">DD/MM/AAAA</string>
+    <string name="data">Data</string>
+    <string name="recebimentos">RECEBIMENTOS</string>
+    <string name="rs">R$</string>
+    <string name="saldofinal">%s</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="pagamentos">PAGAMENTOS</string>
+    <string name="valor">Valor</string>
+    <string name="categoria">Categoria</string>
+    <string-array name="entradas_array">
+        <item>Salário/Renda</item>
+        <item>Contas a receber</item>
+        <item>Outros recebimentos</item>
+    </string-array>
+    <string-array name="saidas_array">
+        <item>Habitação</item>
+        <item>Alimentação</item>
+        <item>Saúde e bem estar</item>
+        <item>Lazer</item>
+        <item>Transporte e Viagens</item>
+        <item>Veículo</item>
+        <item>Investimentos</item>
+        <item>Outros gastos</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="r_0_00">R$0,00</string>
+</resources>
